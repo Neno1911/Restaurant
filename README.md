@@ -1,2 +1,2 @@
 # Restaurant
-this is a practic
+This is a code practic!
